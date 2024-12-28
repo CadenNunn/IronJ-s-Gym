@@ -52,7 +52,7 @@ body {
     background-color: #ffffff; /* Clean white background for hero */
     color: #333333; /* Standard text color */
     position: relative;
-    height: 125vh; /* Extended height to make the page longer */
+    height: 90vh; /* Extended height to make the page longer */
     display: flex;
     flex-direction: column;
     justify-content: center;
