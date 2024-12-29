@@ -36,7 +36,7 @@ body {
     text-decoration: none;
     color: white;
     font-weight: 700;
-    font-size: 1.2rem; /* Increased font size */
+    font-size: 2.5rem; /* Increased font size */
     transition: color 0.3s;
 }
 
@@ -52,7 +52,7 @@ body {
     background-color: #ffffff; /* Clean white background for hero */
     color: #333333; /* Standard text color */
     position: relative;
-    height: 50vh; /* Extended height to make the page longer */
+    height: 25vh; /* Extended height to make the page longer */
     display: flex;
     flex-direction: column;
     justify-content: center;
